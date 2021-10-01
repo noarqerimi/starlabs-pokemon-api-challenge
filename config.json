@@ -1,0 +1,9 @@
+{
+    "postgresql":{
+        "host":"localhost",
+        "username":"pokemonuser",
+        "password":"pokemonpassword",
+        "database":"pokemondb",
+        "port":"5433"
+    }
+}
